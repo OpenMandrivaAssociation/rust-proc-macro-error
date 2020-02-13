@@ -1,0 +1,11 @@
+--- proc-macro-error-0.4.8/Cargo.toml	2020-02-01T07:59:15+00:00
++++ proc-macro-error-0.4.8/Cargo.toml	2020-02-10T23:21:17.287164+00:00
+@@ -38,7 +38,7 @@
+ version = "1.0"
+ 
+ [dev-dependencies.toml]
+-version = "=0.5.2"
++version = "0.5.2"
+ 
+ [dev-dependencies.trybuild]
+ version = "1.0.19"
